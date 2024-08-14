@@ -16,7 +16,14 @@ Vue.component("simple_footer_component_1723633430", {
                 <div class="flex">
                     <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
                         © 2023 BlockScope. Empowering users with real-time blockchain insights. All rights reserved.
+                        © 2023 BlockScope. Empowering users with real-time blockchain insights. All rights reserved.
                     </div>
+                </div>
+                <div class="flex justify-center mt-4">
+                    <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                        Hey there
+                    </button>
+                </div>
                 </div>
             </div>
         </footer> 
